@@ -13,3 +13,6 @@
 [submodule "task-extra-ABonus-810101568"]
 	path = task-extra-ABonus-810101568
 	url = git@github.com:erfan-mirshams/ABonus-810101568.git
+[submodule "task-6-dms"]
+	path = task-6-dms
+	url = git@github.com:erfan-mirshams/dms.git
