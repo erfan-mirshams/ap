@@ -1,7 +1,7 @@
 #+title: AP-tasks
 
 * Intro
-This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course, Mr. Ramtin Khosravi.
+This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course,[[https://github.com/ramtung][Mr. Ramtin Khosravi]].
 * Tasks
 | No. | Name           | Description                                                 | Statement(in persian) |
 |-----+----------------+-------------------------------------------------------------+-----------------------|
