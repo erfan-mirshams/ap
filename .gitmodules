@@ -4,3 +4,6 @@
 [submodule "task-3-barname-haftegi"]
 	path = task-3-barname-haftegi
 	url = git@github.com:erfan-mirshams/barname-haftegi.git
+[submodule "task-4-csm"]
+	path = task-4-csm
+	url = git@github.com:erfan-mirshams/csm.git
