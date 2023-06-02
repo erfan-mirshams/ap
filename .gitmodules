@@ -1,0 +1,3 @@
+[submodule "task-1-simple-journal"]
+	path = task-1-simple-journal
+	url = git@github.com:erfan-mirshams/simple-journal.git
