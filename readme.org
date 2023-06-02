@@ -1,9 +1,15 @@
 #+title: AP-tasks
 
 * Intro
-This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course,[[https://github.com/ramtung][Mr. Ramtin Khosravi]].
+This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course,[[https://github.com/ramtung][ Mr. Ramtin Khosravi]].
 * Tasks
-| No. | Name           | Description                                                 | Statement(in persian) |
-|-----+----------------+-------------------------------------------------------------+-----------------------|
-|   1 | Simple Journal | A simple CLI program that let's you create journal entries. | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-1.pdf][link]]                  |
-|     |                |                                                             |                       |
+Bear in mind that the PDF files to the task statements aren't very accurate. The teaching assistants this term were quite sloppy. Hope none of them is watching 🤞.
+
+|   No. | Name                       | Description                                                                                                                                | Statement(in persian) |
+|-------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------------------|
+|     1 | Simple Journal             | A simple CLI program that let's you create journal entries.                                                                                | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-1.pdf][link]]                  |
+|     3 | Weekly scheduling          | A simple CLI program that schedules the classes of a school based on the times when teachers are available and the courses they can teach. | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-3.pdf][link]]                  |
+|     4 | Employee Salary Management | A program that assigns Employee salaries and rewards based on respective CSV files and user input                                          | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-4.pdf][link]]                  |
+|     5 | Turtix like game           | A simple game written in SFML. needs more work to be more enjoyable.                                                                       | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-5.pdf][link]]                  |
+|     6 | Driver Management System   | A program that registers drivers and assigns three types of missions to them. (A polymorphism task)                                        | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-6.pdf][link]]                  |
+| extra | Decontamination            | Cleaning someone else's program from the previous term                                                                                     |[[https://github.com/erfan-mirshams/ap/blob/master/statements/tamrin-1-emtiazi.pdf][link]]                       |
