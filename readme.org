@@ -1,0 +1,9 @@
+#+title: AP-tasks
+
+* Intro
+This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course, Mr. Ramtin Khosravi.
+* Tasks
+| No. | Name           | Description                                                 | Statement(in persian) |
+|-----+----------------+-------------------------------------------------------------+-----------------------|
+|   1 | Simple Journal | A simple CLI program that let's you create journal entries. | [[https://github.com/erfan-mirshams/ap/blob/master/statements/taklif-1.pdf][link]]                  |
+|     |                |                                                             |                       |
