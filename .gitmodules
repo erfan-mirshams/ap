@@ -16,3 +16,6 @@
 [submodule "task-6-dms"]
 	path = task-6-dms
 	url = git@github.com:erfan-mirshams/dms.git
+[submodule "futball-fantasy-1"]
+	path = futball-fantasy-1
+	url = https://github.com/erfan-mirshams/futball-fantasy
