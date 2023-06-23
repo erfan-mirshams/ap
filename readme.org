@@ -3,7 +3,6 @@
 * Intro
 This repository contains the assignments I submitted for the Advanced Programming course at the University of Tehran. Many thanks to the instructor of this course,[[https://github.com/ramtung][ Mr. Ramtin Khosravi]].
 * Tasks
-Bear in mind that the PDF files to the task statements aren't very accurate. The teaching assistants this term were quite sloppy. Hope none of them is watching 🤞.
 
 |   No. | Name                       | Description                                                                                                                                | Statement(in persian) |
 |-------+----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+-----------------------|
